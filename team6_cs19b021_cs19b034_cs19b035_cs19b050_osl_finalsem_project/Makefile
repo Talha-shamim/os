@@ -1,0 +1,2 @@
+output : team6_cs19b021_cs19b034_cs19b035_cs19b050_osl_finalsem_code.cpp
+	g++ team6_cs19b021_cs19b034_cs19b035_cs19b050_osl_finalsem_code.cpp -lncurses
